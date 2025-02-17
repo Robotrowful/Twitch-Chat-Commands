@@ -3,12 +3,12 @@ A List of all commands which can be executed by RobotHelpFul
 Notes: All commands are not case sensative unless specified otherwise. Commands will not run when im not running streamerbot 
 
 # Menu
-* [General Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/edit/main/README.md#general-commands)
-* [Visual commands](https://github.com/Robotrowful/Twitch-Chat-Commands/edit/main/README.md#Visual-commands)
-  * [Foreground](https://github.com/Robotrowful/Twitch-Chat-Commands/edit/main/README.md#foreground)
-  * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/edit/main/README.md#background)
-* [Window and Fullscreen mode](https://github.com/Robotrowful/Twitch-Chat-Commands/edit/main/README.md#window-and-fullscreen-mode)
-* [Talking](https://github.com/Robotrowful/Twitch-Chat-Commands/edit/main/README.md#Talking)
+* [General Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/main/README.md#general-commands) 
+* [Visual commands](https://github.com/Robotrowful/Twitch-Chat-Commands/main/README.md#Visual-commands)
+  * [Foreground](https://github.com/Robotrowful/Twitch-Chat-Commands/main/README.md#foreground)
+  * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/main/README.md#background)
+* [Window and Fullscreen mode](https://github.com/Robotrowful/Twitch-Chat-Commands/main/README.md#window-and-fullscreen-mode)
+* [Talking](https://github.com/Robotrowful/Twitch-Chat-Commands/main/README.md#Talking)
 
 # General Commands
 * Art Specs `!ArtSpecs` Will give you Information about my tablet and art programs
