@@ -51,8 +51,7 @@ These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
 ## Window and Fullscreen mode
 
-These commands technically do not work on the `Starting`, `Break` or `Ending` screens.
-They still affect the on screen chat layering 
+These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
 * `!Borderless` `!Fullscreen` Will remove the backgrounds. 
 * `!Window` `!Windowed` or any `!Border` command will readd the Backgrounds. 
