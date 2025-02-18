@@ -28,6 +28,7 @@ Notes:
 # Visual Commands
 These commands are available to regular/reoccuring members of the channel, This is to prevent spam.  
 It is possible in the future that these commands will be replaced with a Redeem channel point reward instead. 
+These commands will be reset to their defaults when entering a new screen.  
 
 ## Foreground
 * `!Plushie` Plushies are on by default for `Starting`, `Break` or `Ending` screens. 
@@ -50,10 +51,11 @@ These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
 ## Window and Fullscreen mode
 
-These commands do not work on the `Starting`, `Break` or `Ending` screens.
+These commands technically do not work on the `Starting`, `Break` or `Ending` screens.
+They still affect the on screen chat layering 
 
-* `!Borderless` `!Fullscreen` Will remove the backgrounds. Backgrounds can still be assigned but wont be visable. 
-* `!Window` `!Windowed` Will readd the Backgrounds. 
+* `!Borderless` `!Fullscreen` Will remove the backgrounds. 
+* `!Window` `!Windowed` or any `!Border` command will readd the Backgrounds. 
   
 # Talking
 
