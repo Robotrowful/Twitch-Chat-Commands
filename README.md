@@ -34,6 +34,7 @@ These commands will be reset to their defaults when entering a new screen.
 * `!Plushie` Plushies are on by default for `Starting`, `Break` or `Ending` screens. 
    - `Hide` If there are plushies active on the screen it will make them fly away 
    - `Show` Will release the plushies and allow them to be seen again
+   - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big. 
      
 ## Background
 
