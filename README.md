@@ -31,10 +31,13 @@ It is possible in the future that these commands will be replaced with a Redeem 
 These commands will be reset to their defaults when entering a new screen.  
 
 ## Foreground
+
+Only one of these effects can be active at a time. 
+
 * `!Plushie` Plushies are on by default for `Starting`, `Break` or `Ending` screens. 
    - `Hide` If there are plushies active on the screen it will make them fly away 
-   - `Show` Will release the plushies and allow them to be seen again
-   - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big. 
+   - `Show` Will make the plushie be seen on the screen
+   - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big
      
 ## Background
 
