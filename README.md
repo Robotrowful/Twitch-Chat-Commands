@@ -10,10 +10,11 @@ Notes:
 6. This does not include global and individual cooldowns 
 
 # Menu
-* [General Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#general-commands)
+* [General Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#General-commands)
 * [Visual commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Visual-commands)
-  * [Foreground](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#foreground)
-  * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#background)
+  * [Foreground](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Foreground)
+  * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Background)
+  * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Border-Corners)
   * [Window and Fullscreen mode](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#window-and-fullscreen-mode)
 * [Talking](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Talking)
 
@@ -51,14 +52,21 @@ These commands do not work on the `Starting`, `Break` or `Ending` screens.
    - `Random` Will make the background a random colour
    - `Reset` `Default` Will default the backgrounds to their original versions
    - `Trans` Will display a background which changes between Pink, Blue and white
-   -  If left blank will set it to black
+
+## Border Corners
+
+These commands allow users to change how the corners of bordered mode will look. Nor do they work on the `Starting`, `Break` or `Ending` screens.
+
+* `!Border Corner` `!Border Corners` 
+   - `Round` `Curve` Will give a roundness / curve to them
+   - `Square` Will give a sharp point
 
 ## Window and Fullscreen mode
 
 These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
-* `!Borderless` `!Fullscreen` Will remove the backgrounds. 
-* `!Window` `!Windowed` or any `!Border` command will readd the Backgrounds. 
+* `!Borderless` `!Border fullscreen ` `!Fullscreen` Will remove the backgrounds. 
+* `!Border Window` `!Border Windowed` `!Window` `!Windowed` command will readd the Borders/Backgrounds. 
   
 # Talking
 
