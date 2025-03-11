@@ -38,11 +38,13 @@ Only one of these effects can be active at a time.
 * `!Plushie` Plushies are on by default for `Starting`, `Break` or `Ending` screens. 
    - `Hide` If there are plushies active on the screen it will make them fly away 
    - `Show` Will make the plushie be seen on the screen
-   - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big
+   - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big. This will revert after 5 minutes (300 seconds)
+   - `Time left` This command ONLY works when the plushie is giant. It will tell you how long until the plushie reverts to normal size
      
 ## Background
 
 These commands do not work on the `Starting`, `Break` or `Ending` screens.
+Time between Border commands is about a minute
 
 * `!Border` `!Background` `!BG` The background defaults are Arts is `Rainbow`, Codes is `Matrix` and Games is either `Majima` or `Trans`
    - `Majima` `Gold and Red` `Red and Gold` Will display a background that change between the colours Red, Gold and Grey
@@ -52,6 +54,18 @@ These commands do not work on the `Starting`, `Break` or `Ending` screens.
    - `Random` Will make the background a random colour
    - `Reset` `Default` Will default the backgrounds to their original versions
    - `Trans` Will display a background which changes between Pink, Blue and white
+   - `Colour` Will change the background to one of these colours
+      - `Black`
+      - `Blue`
+      - `Brown`
+      - `Green`
+      - `Orange`
+      - `Pink`
+      - `Purple`
+      - `Red`
+      - `White`
+      - `Yellow`
+   - `Cooldown` Will display how long until the backgrounds can be changed again. (Will also display if it's paused or ready)
 
 ## Border Corners
 
