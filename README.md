@@ -14,7 +14,7 @@ Notes:
 * [Visual commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Visual-commands)
   * [Foreground](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Foreground)
   * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Background)
-  * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Border-Corners)
+  * [Border Corners](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Border-Corners)
   * [Window and Fullscreen mode](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#window-and-fullscreen-mode)
 * [Talking](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Talking)
 
