@@ -33,14 +33,16 @@ These commands will be reset to their defaults when entering a new screen.
 
 ## Foreground
 
-Only one of these effects can be active at a time. 
+Only one dragon plushie effects can be active at a time. 
 
 * `!Plushie` Plushies are on by default for `Starting`, `Break` or `Ending` screens. 
    - `Hide` If there are plushies active on the screen it will make them fly away 
    - `Show` Will make the plushie be seen on the screen
    - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big. This will revert after 5 minutes (300 seconds)
    - `Time left` This command ONLY works when the plushie is giant. It will tell you how long until the plushie reverts to normal size
-     
+* `!I Am The Mouse` `!I'm The Mouse` Will show an image of a mouse on screen with a sound that says "I am the mouse"
+* `!I Am Trapped` `!I'm Trapped`  Will show either image of a mouse in jail or a box on screen with a sound that says "I'm trapped"
+  
 ## Background
 
 These commands do not work on the `Starting`, `Break` or `Ending` screens.
