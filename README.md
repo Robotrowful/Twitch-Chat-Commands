@@ -16,7 +16,9 @@ Notes:
   * [Background](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Background)
   * [Border Corners](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Border-Corners)
   * [Window and Fullscreen mode](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#window-and-fullscreen-mode)
+  * [Check Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Check-Commands)
 * [Talking](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Talking)
+* [Alternative Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Alternative-commands)
 
 # General Commands
 * Art Specs `!ArtSpecs` Will give you Information about my tablet and art programs
@@ -33,13 +35,20 @@ These commands will be reset to their defaults when entering a new screen.
 
 ## Foreground
 
-Only one dragon plushie effects can be active at a time. 
+Only one dragon plushie visual effects can be active at a time. 
+Speed values are Slower, Slow, Normal, Fast, Faster, Fastest, Hyper. 
+Speed commands dont affect the dragon plush visability commands, and can be used in conjunction with them.
 
 * `!Plushie` Plushies are on by default for `Starting`, `Break` or `Ending` screens. 
    - `Hide` If there are plushies active on the screen it will make them fly away 
    - `Show` Will make the plushie be seen on the screen
    - `Big` `Enormous` `Expand` `Giant` `Gigantic` `Ginormous` `Massive` Makes the Plushie really big. This will revert after 5 minutes (300 seconds)
-   - `Time left` This command ONLY works when the plushie is giant. It will tell you how long until the plushie reverts to normal size
+   - `Time left` This command ONLY works when the Dragon plushie is giant. It will tell you how long until the plushie reverts to normal size
+   - `Reset Size` `Normal` Only works when the Dragon plushie is giant. Will revert to normal size
+   - `Speed Up` Will increase it's speed. Will say if it cant go any higher 
+   - `Speed Down` Will decrease it's speed Will say if it cant go any lower
+   - `Speed Reset` Will reset it's speed to default of 50
+   - `Activity` `Check` `State` Will tell you what the dragon plushie is currently doing (Hidden, Shown, Massive)
 * `!I Am The Mouse` `!I'm The Mouse` Will show an image of a mouse on screen with a sound that says "I am the mouse"
 * `!I Am Trapped` `!I'm Trapped`  Will show either image of a mouse in jail or a box on screen with a sound that says "I'm trapped"
   
@@ -82,11 +91,57 @@ These commands allow users to change how the corners of bordered mode will look.
 These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
 * `!Borderless` `!Border fullscreen ` `!Fullscreen` Will remove the backgrounds. 
-* `!Border Window` `!Border Windowed` `!Window` `!Windowed` command will readd the Borders/Backgrounds. 
-  
+* `!Border Window` `!Border Windowed` `!Window` `!Windowed` command will readd the Borders/Backgrounds.
+
+## Check Commands
+
+  If you need to make sure something's cooldown or to see other info here is a list of useful commands
+
+  * `!Background Current` `!Background State` `!Current Background` `!Check Background` Will tell you the current background
+  * `!Border Cooldown` `!BG Cooldown` `!Background Cooldown` Will say how long until the background can be changed, if it cant or if it can be changed
+  * `!Check Plushie Activity` `!Plushie Activity` `!Plushie Check` `!Plushie State` Will say if the Dragon Plush is shown, hidden or massive
+  * `!Plushie Time Left` `!How Long Are You Big For Dragon Plush` Will display the time remaining of the giant dragon plush (will only work if it is giant)
+  * `!Check Plushie Speed` Will display how fast the dragon plush is moving
+
 # Talking
 
 * `catJam` `catJAM` `catJAMPARTY` Is a case sensative command. Has a 1 in 3 chance to say catJAMPARTY in chat
 * `Huhh` Is a case sensative command. Has a 1 in 3 chance to say Huhh in chat
 * `Meow` Is a case sensative command. Has a 1 in 2 chance to say Meow in chat
 * `Hi Helpful` `Hello Helpful` Will say a random hello back to you! (Dont worry the bot isn't laggy, Just has a random time between 100ms and 2000ms to reply back to you)
+
+# Alternative commands
+These commands where made to the sole reason to make it look like your casting a spell. 
+
+## Dragon Plush Commands
+
+### !Plushie Show
+* `Summon` `Reveal yourself` 
+   - `Dragon Plush`
+
+### !Plushie Hide
+* `Flyaway` `Begone` 
+   - `Dragon Plush`
+
+### !Plushie Grow
+* `!Grow My Dragon Plush`
+
+### !Plushie Time Left
+* `!How Long Are You Big For Dragon Plush`
+
+### !Plushie Reset Size
+* `!Return To Normal Size Dragon Plush`
+
+### !Plushie Speed Up
+* `!Dragon Plushie Speed Up`
+* `!Accelerate My Dragon Plush`
+* `!Hasten My Dragon Plush`
+
+### !Plushie Speed Down
+* `!Dragon Plushie Speed Down`
+* `!Decelerate My Dragon Plush`
+* `!Hinder the Dragon Plush`
+
+### !Plushie Speed Reset
+* `!Dragon Plushie Speed Reset`
+* `!Go Easy Dragon Plush`
