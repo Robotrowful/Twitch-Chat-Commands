@@ -65,7 +65,7 @@ Time between Border commands is about a minute
    - `Random` Will make the background a random colour
    - `Reset` `Default` Will default the backgrounds to their original versions
    - `Trans` Will display a background which changes between Pink, Blue and white
-   - `Colour` Will change the background to one of these colours
+   - `Colour` `Color` Will change the background to one of these colours
       - `Black`
       - `Blue`
       - `Brown`
