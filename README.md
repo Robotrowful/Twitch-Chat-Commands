@@ -49,6 +49,8 @@ Speed commands dont affect the dragon plush visability commands, and can be used
    - `Speed Down` Will decrease it's speed Will say if it cant go any lower
    - `Speed Reset` Will reset it's speed to default of 50
    - `Activity` `Check` `State` Will tell you what the dragon plushie is currently doing (Hidden, Shown, Massive)
+   - `Pet` Will pet the dragon plush & will keep a total tally
+*`!Dragon Plush Pet Counter` Will give the current amount of pettings the dragon plush has recived
 * `!I Am The Mouse` `!I'm The Mouse` Will show an image of a mouse on screen with a sound that says "I am the mouse"
 * `!I Am Trapped` `!I'm Trapped`  Will show either image of a mouse in jail or a box on screen with a sound that says "I'm trapped"
   
@@ -91,7 +93,14 @@ These commands allow users to change how the corners of bordered mode will look.
 These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
 * `!Borderless` `!Border fullscreen ` `!Fullscreen` Will remove the backgrounds. 
-* `!Border Window` `!Border Windowed` `!Window` `!Windowed` command will readd the Borders/Backgrounds.
+* `!Border Window` `!Border Windowed` `!Window` `!Windowed` command will readd the Borders/Backgrounds to Width 5
+* `!Border Width`
+ - `0` Alternative to !fullscreen
+ - `1`
+ - `2`
+ - `3`
+ - `4`
+ - `5` `Default`
 
 ## Check Commands
 
@@ -99,9 +108,9 @@ These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
   * `!Background Current` `!Background State` `!Current Background` `!Check Background` Will tell you the current background
   * `!Border Cooldown` `!BG Cooldown` `!Background Cooldown` Will say how long until the background can be changed, if it cant or if it can be changed
-  * `!Check Plushie Activity` `!Plushie Activity` `!Plushie Check` `!Plushie State` Will say if the Dragon Plush is shown, hidden or massive
-  * `!Plushie Time Left` `!How Long Are You Big For Dragon Plush` Will display the time remaining of the giant dragon plush (will only work if it is giant)
-  * `!Check Plushie Speed` Will display how fast the dragon plush is moving
+  * `!Check Dragon Plush Activity` `!Check Plushie Activity` `!Plushie Activity` `!Plushie Check` `!Plushie State` Will say if the Dragon Plush is shown, hidden or massive
+  * `!Check Dragon Plush Size``!Plushie Time Left` `!How Long Are You Big For Dragon Plush`Will display the time remaining of the giant dragon plush (will only work if it is giant)
+  * `!Check Dragon Plush Speed` `!Check Plushie Speed` Will display how fast the dragon plush is moving
 
 # Talking
 
@@ -145,3 +154,6 @@ These commands where made to the sole reason to make it look like your casting a
 ### !Plushie Speed Reset
 * `!Dragon Plushie Speed Reset`
 * `!Go Easy Dragon Plush`
+
+### !Check Plushie Activity
+* `Check Dragon Plush Activity`
