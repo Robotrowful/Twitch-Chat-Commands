@@ -125,11 +125,11 @@ These commands where made to the sole reason to make it look like your casting a
 ## Dragon Plush Commands
 
 ### !Plushie Show
-* `Summon` `Reveal yourself` 
+* `!Summon` `!Reveal yourself` 
    - `Dragon Plush`
 
 ### !Plushie Hide
-* `Flyaway` `Begone` 
+* `!Flyaway` `!Begone` 
    - `Dragon Plush`
 
 ### !Plushie Grow
@@ -142,12 +142,12 @@ These commands where made to the sole reason to make it look like your casting a
 * `!Return To Normal Size Dragon Plush`
 
 ### !Plushie Speed Up
-* `!Accelerate My Dragon Plush`
-* `!Hasten My Dragon Plush`
+* `!Accelerate My`  `!Hasten My`
+  - `Dragon Plush`
 
 ### !Plushie Speed Down
-* `!Decelerate My Dragon Plush`
-* `!Hinder the Dragon Plush`
+* `!Decelerate My` `!Hinder the`
+  - `Dragon Plush`
 
 ### !Plushie Speed Reset
 * `!Dragon Plushie Speed Reset`
