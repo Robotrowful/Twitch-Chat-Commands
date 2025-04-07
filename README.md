@@ -94,7 +94,7 @@ These commands do not work on the `Starting`, `Break` or `Ending` screens.
 
 * `!Borderless` `!Border fullscreen ` `!Fullscreen` Will remove the backgrounds. 
 * `!Border Window` `!Border Windowed` `!Window` `!Windowed` command will readd the Borders/Backgrounds to Width 5
-* `!Border Width`
+* `!Border Width` Will change the pixel width of the border
  - `0` Alternative to !fullscreen
  - `1`
  - `2`
@@ -142,18 +142,13 @@ These commands where made to the sole reason to make it look like your casting a
 * `!Return To Normal Size Dragon Plush`
 
 ### !Plushie Speed Up
-* `!Dragon Plushie Speed Up`
 * `!Accelerate My Dragon Plush`
 * `!Hasten My Dragon Plush`
 
 ### !Plushie Speed Down
-* `!Dragon Plushie Speed Down`
 * `!Decelerate My Dragon Plush`
 * `!Hinder the Dragon Plush`
 
 ### !Plushie Speed Reset
 * `!Dragon Plushie Speed Reset`
 * `!Go Easy Dragon Plush`
-
-### !Check Plushie Activity
-* `Check Dragon Plush Activity`
