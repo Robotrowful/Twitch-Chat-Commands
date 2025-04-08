@@ -52,8 +52,19 @@ Speed commands dont affect the dragon plush visability commands, and can be used
    - `Activity` `Check` `State` Will tell you what the dragon plushie is currently doing (Hidden, Shown, Massive)
    - `Pet` Will pet the dragon plush & will keep a total tally
 *`!Dragon Plush Pet Counter` Will give the current amount of pettings the dragon plush has recived
+
 * `!I Am The Mouse` `!I'm The Mouse` Will show an image of a mouse on screen with a sound that says "I am the mouse"
 * `!I Am Trapped` `!I'm Trapped`  Will show either image of a mouse in jail or a box on screen with a sound that says "I'm trapped"
+
+* `!Show Brick` `!Brick Show` A brick will fall onto the screen
+* `!Move Brick` `!Brick` `!Brick Move` Allowing you to move the brick in any of these directions
+  - `Up`
+  - `Left`
+  - `Right`
+  - `Down`
+* `!Hide Brick` `!Destroy Brick` `!Brick Hide` Will explode the brick. The brick is hidden by default
+* `!Fix` `!Reset` Will move the brick into the center of the screen. Great for those who have moved it to an unknowable place off screen!
+  - `Brick`
   
 ## Background
 
