@@ -19,6 +19,7 @@ Notes:
   * [Check Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Check-Commands)
 * [Talking](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Talking)
 * [Alternative Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Alternative-commands)
+* [Moderator Commands](https://github.com/Robotrowful/Twitch-Chat-Commands/tree/main?tab=readme-ov-file#Moderator-Commands)
 
 # General Commands
 * Art Specs `!ArtSpecs` Will give you Information about my tablet and art programs
@@ -152,3 +153,16 @@ These commands where made to the sole reason to make it look like your casting a
 ### !Plushie Speed Reset
 * `!Dragon Plushie Speed Reset`
 * `!Go Easy Dragon Plush`
+
+# Moderator Commands
+Only Moderators can use this commands
+
+* `!Add to` Must have a username at the end to work. 
+  - `Regular` Will allow someone to use most of the commands listed. 
+  - `Suggest` Can allow someone the !Suggest Command
+ 
+* `!Remove` Must have a username at the end to work. 
+  - `Regular` Will remove their access to my custom commands
+  - `Suggest` Will revoke access to using !Suggest
+
+* `!Suggest` Will allow mods to put their message into a suggestion box. However non mods can be given access to suggest if a moderator adds them to a suggest group 
